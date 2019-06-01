@@ -64,10 +64,11 @@ def knn(train,test):
                 result = i
         results.append(result)
     
-    numero_acertos = 0
+    number_of_corrects = 0
     for index_test in test.T:
         print(train['variety'][index_test],"==",results[index_test] )
         if(train['variety'][index_test]==results[index_test]):
-            numero_acertos+=1
-            
-    print(numero_acertos/len(results))
+            number_of_corrects+=1
+    print("__________________________________")
+    print("| hit rate :",(number_of_corrects/len(results))*100," %")
+    print("__________________________________")
