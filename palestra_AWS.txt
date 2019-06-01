@@ -1,0 +1,20 @@
++---------------------------------------------------+
+|                                                   |           
+|        Palestra Amazon Web Services               |          
+|                                                   |                                       
++---------------------------------------------------+                                      
+
+Introdução:
+
+    Muitas empresas tinham servidores em seu próprio servidor, hoje em dia temos 
+a computação tercerizada, onde podemos alugar servidores na AWS;
+o pagamento é mensal. A computação pode ser ainda sazonal, podemos pagar 100 servidores 
+por 10 minutos.
+A revolução que estamos vivendo hoje é a revolução da inteligência artificial.
+A amazon surge como uma empresa de livraria, porém quando o idealizador da amazon 
+O sistema de recomendação foi criado pela amazon, através de regressão linear. Hoje esse
+processamento é feito com inteligência artificial.
+A netflix é uma empresa que não tem nenhum servidor, utiliza servidores da AWS.
+
+
+
